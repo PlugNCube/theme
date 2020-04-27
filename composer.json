@@ -1,0 +1,23 @@
+{
+    "name": "cubes/theme",
+    "description": "The Apply Theme Package.",
+    "keywords": ["apply", "library", "cube", "theme"],
+    "type": "apply",
+    "authors": [
+        {
+            "name": "Apply",
+            "email": "apply@creatyon.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cubes\\Theme\\": "src/"
+        }
+    },
+    "extra": {
+        "apply": {
+            "vendor": "cubes/theme"
+        }
+    }
+}

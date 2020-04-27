@@ -1,0 +1,12 @@
+{
+    "id": "8af7e438-21d5-4f94-95b4-a2a8c2b189c2",
+    "name": "theme",
+    "display_name": "Theme",
+    "alias": null,
+    "description": "Theme Description",
+    "type": "cube",
+    "namespace": "Cubes\\Theme",
+    "core": 0,
+    "active": 1,
+    "order": 0
+}
