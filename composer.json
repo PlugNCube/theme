@@ -3,6 +3,7 @@
     "description": "The Apply Theme Package.",
     "keywords": ["apply", "library", "cube", "theme"],
     "type": "apply",
+    "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
