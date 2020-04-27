@@ -1,5 +1,5 @@
 {
-    "name": "cubes/theme",
+    "name": "PlugNCube/theme",
     "description": "The Apply Theme Package.",
     "keywords": ["apply", "library", "cube", "theme"],
     "type": "apply",
@@ -17,7 +17,7 @@
     },
     "extra": {
         "apply": {
-            "vendor": "cubes/theme"
+            "vendor": "plugins/theme"
         }
     }
 }
