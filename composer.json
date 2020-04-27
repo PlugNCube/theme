@@ -1,5 +1,5 @@
 {
-    "name": "PlugNCube/theme",
+    "name": "plugncube/theme",
     "description": "The Apply Theme Package.",
     "keywords": ["apply", "library", "cube", "theme"],
     "type": "apply",
