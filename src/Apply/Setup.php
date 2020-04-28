@@ -22,7 +22,7 @@ class Setup extends SetupServiceProvider
             //->registerAlias()
             ->registerConfig('theme')
             //->registerDatabase()
-            //->registerHelpers()
+            ->registerHelpers()
             //->registerViews()
             //->registerRouteProvider(RouteServiceProvider::class)
         ;
