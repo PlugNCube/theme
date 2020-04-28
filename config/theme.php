@@ -48,6 +48,8 @@ return [
             'apply'                 => 'apply.json',
             'license'               => 'LICENCE.md',
             'composer'              => 'composer.json',
+            'package'               => 'package.json',
+            'webpack'               => 'webpack.mix.js',
             'Setup'                 => 'src/Apply/Setup.php',
             'RouteServiceProvider'  => 'src/Providers/RouteServiceProvider.php',
             'AppServiceProvider'    => 'src/Providers/AppServiceProvider.php',
